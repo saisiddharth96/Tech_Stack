@@ -12,7 +12,7 @@ const CardSection = (props) => {
 const Style = {
     containerStyle : {
         borderBottomWidth : 1,
-        padding : 5,
+        padding : 10,
         backgroundColor : '#fff',
         justifyContent : 'flex-start',
         flexDirection : 'row',
@@ -20,4 +20,4 @@ const Style = {
     }
 };
 
-export {CardSection};
+export default CardSection;
