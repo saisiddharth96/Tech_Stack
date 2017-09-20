@@ -65,8 +65,8 @@ const Styles = {
     fontSize: 16,
     color: "#061D32",
     flex: 1,
-    // justifyContent: 'center',
-    // alignItems: 'center',
+    justifyContent: 'center',
+    alignItems: 'center',
     backgroundColor: "#E4F2FF",
     padding: 10
   }
